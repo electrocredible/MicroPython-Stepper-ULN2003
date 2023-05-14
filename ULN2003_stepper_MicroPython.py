@@ -1,3 +1,4 @@
+# More details & schematic on electrocredible.com
 import utime
 from machine import Pin
 
